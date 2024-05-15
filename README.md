@@ -20,6 +20,7 @@ using passenger data (ie name, age, gender, socio-economic class, etc)."
    - Importing libraries on VS Code for Python
    - Reading the train.csv file, treating the data and cleaning it
    - Reading the test.csv file, treating the data and cleaning it
+   - Creating graphs to understand better our dataset and also the correlation between variables
    - Creating our train set to train our models
    - Using different predict methods to predict the 'Survived' column on the test dataset
    - Checking to see which method is the most efficient
